@@ -1,0 +1,203 @@
+| I Int. Revue ges. Hydrobiol. I   | 62   | I 2 I   | 1971 I   | 245-254   |
+|----------------------------------|------|---------|----------|-----------|
+
+KLAUS ANGER
+
+Biologische Anstalt Helgoland
+
+Benthic Invertebrates as Indicators of Organic Pollution in the Western Baltic Sea
+
+Abstract
+
+The quantitative distribution of some important benthic invertebrates in a shallow inshore area of Kiel Bay (Western Baltic Sea) is described. This region is partly polluted by.domestic sewage from the municipality of Kiel. Three groups of species are distinguished with reference to their densities and other population parameters in the different subareas: Progressive species of the 1st and 2nd order indicate a high and moderate to slight degree of pollution respectively by high population numbers. Regressive species are adverse indicators, absent or occurring in exceptionally low numbers in affected areas. In many cases the examination must be concentrated on sand bottom, because a series of species normally dwelling on aufwuchs build up dense populations in sand, if it is organically enriched.
+
+The polychaetes Capitella capitata, Nereis diversicolor and Polydora ligni are regarded as progressive species of the 1st order. The amphipods Corophium insidiosum and Gammarus salinus, the mussel Mytilus edulis, the polychaete Pygospio elegans, the snail Hydrobia ulvae, and some other invertebrates belong to the group of indicators for slight organic pollution. The main regressive species are the amphipod Bathyporeia sarsi and the mite Copidognathus fabriciusi.
+
+Contents
+
+| 1.                                        | Introduction           |   245 |
+|-------------------------------------------|------------------------|-------|
+| 2.                                        | :Methods . .           |   248 |
+| 3. Results                                |                        |   248 |
+| 3.1. Progressive species of the 1st order |                        |   249 |
+| 3.2 Progressive speciE s of the 2nd       | order                  |   250 |
+| 3.3                                       | Regressive species . . |   251 |
+| 4. Conclusions and                        | Discussion             |   252 |
+| 5. Summary                                |                        |   253 |
+| 6. References . .                         | . . . . .              |   253 |
+
+1. Introduction
+
+The indicator concept is based upon the assumption that relatively longlived, stationary organisms reflect the environmental conditions over a long time scale. In particular, a series of aquatic animals is regarded as closely associated with organic pollution and thus as significantly indicating this kind of man-made environmental change. A recent review of the multitude of already existing literature on this subject is given in the comprehensive report of LEppÄκoskI (1975).
+
+In the present study, selected benthic invertebrates of the Western Baltic Sea were investigated for their possible value as indicator species. Their horizontal distribution in a gradient of domestic sewage pollution is described quantitatively in terms of abundance (= numerical density), biomass (dry weight), presence (=percentage of frequency), and dominance (= percentage of total population density).
+
+253
+
+Table 1. Quantitative distribution of potential indicator species in the pollution gradient. Mean (x), standard error (±) and maximum (max) values of abundance (A), biomass (B), presence frequency (P) and dominance (D) given for different ranges of distance from the outlet. *=only sand data, **= only juvenile specimens (1-10 mim body length) considered.
+
+| Species                           |     | A (l/m2)   | 50 -200 B (mg/m:!)   | III P(%)   | 1)(%)   | A (T/m2)   | 300 -100 m B (mg/m2) P (II/U)   | 300 -100 m B (mg/m2) P (II/U)   | ]} (11/,,)   | I A (Jim')   | 1 000 - :WOO Jl (JJl g/ Ill:.')   | III 1'(11,'(1)   | ]) (11.'11)   |
+|-----------------------------------|-----|------------|----------------------|------------|---------|------------|---------------------------------|---------------------------------|--------------|--------------|-----------------------------------|------------------|---------------|
+| lIyclrobia ul'l.'a.e PENNANT      | X   | 1212       | 932                  | 92.3       | 4.1     | 1694       | 1468                            | 94.0                            | 7.7          | 2GB          | 11~                               | :);'.0           | 4.7           |
+| lIyclrobia ul'l.'a.e PENNANT      | ±   | ~H9        | 2iW                  | -          | 1.1     | 436        | 445                             | -                               | 1.5          | 74           | 39                                | -                | O.~           |
+| lIyclrobia ul'l.'a.e PENNANT      | max | 8590       | 6088                 | -          | 37.6    | 13110      | 12486                           | -                               | 31.4         | 2725         | 12:30                             | -                | 28.u          |
+| .ill ytilus eci1tz.is L. (*) (**) | x   | 287        | 411                  | 97.6       | 2.0     | 204        | 485                             | 71.8                            | O.~          | 28           | 115                               | 72.4             | u;            |
+| .ill ytilus eci1tz.is L. (*) (**) | ±   | 115        | 133                  | -          | 1.2     | 99         | 376                             | -                               | 0.2          | 9            | 52                                | -                | 0.6           |
+| .ill ytilus eci1tz.is L. (*) (**) | max | 3400       | 2747                 | -          | 47.6    | 2601       | 10208                           | -                               | 4.a          | 150          | 931                               | -                | 12.7 -        |
+| JJJysella                         | x   | 0          | -                    | 0.0        | -       | 1.5        | -                               | 7.4                             | -            | 27           | -                                 | 10.0             | -             |
+| bidentata                         | ±   | 0          | -                    | -          | -       | 0.7        | -                               | -                               | -            | 18           | -                                 | -                | -             |
+| IVloNTAGU                         | max | 0          | -                    | -          | -       | 30         | -                               | -                               | -            | 707          | -                                 | - ---_._._-----  | - ---.- .. .. |
+| Pholoe minuta                     | x   | 0.6        | 0.1                  | 3.9        | 0.0     | 1.0        | 2                               | 30.0                            | 0.1          | 14           | 3                                 | 2i1.1)           | - 0.2         |
+| FABRICIUS                         | ±   | 0.5        | 0.1                  | -          | 0.0     | 3          | 1                               | -                               | 0.1          | (i           | 1                                 | -                | 0.1           |
+| Pholoe minuta                     | max | 25         | 5                    | -          | 0.1     | 100        | 27                              | -                               | 0.8          | 21!l         | H') , -                           | -                | 1.8           |
+| Anaitides                         | x   | 19         | 38                   | 36.5       | 0.1     | 39         | 71                              | 70.0                            | 0.2          | 1U           | 1                                 | 54.u             | U1            |
+| mUCOS(t                           | ±   | 7          | 16                   | -          | 0.1     | 10         | 27                              | -                               | 0.0          | 5            | -!!                               | -                | .1.t1         |
+| BERGSTROl\I                       | max | 260        | 647                  | -          | 1.8     | 370        | 880                             | -                               | 1.4          | 230          | 34                                | -                | - r: a .• )   |
+| N ereis cl'it'er-                 | X   | 838        | 2828                 | 88.5       | :3.1    | 228        | 918                             | !.l6.0                          | 1.6          | 3()          | 149                               | u1.~             | Ui            |
+| s·icolor                          | ±   | 246        | 733                  | -          | 0.9     | 51         | 205                             | -                               | OA:          | ~            | :l6                               | -                | 0.4           |
+| O. ]'.l\:li.tLLEH.                | max | 10250      | 20323                | -          | 28.6    | 1873       | 3455                            | -                               | 16.1         | 275          | 115\)                             | -                | 13.7          |
+| N e're-is s1tcc·inea              | x   | 4          | -                    | 7.1        | 0.0     | 11         | -                               | 25.9                            | 0.3          | 0.:')        | -                                 | 10.0             | 0.1           |
+| (*)                               | ±   | 3          | -                    | -          | 0.0     | 5          | -                               | -                               | O.:J         | 0.3          | -                                 | -                | 0.1           |
+| LEUCI{ART                         | max | 120        | -                    | -          | 0.8     | 115        | -                               | -                               | 8.2          | 5            | -                                 | -                | 1.5           |
+| N ephtys caeca                    | x   | 0          | -                    | 0.0        | -       | 0.1        | -                               | 4.0                             | -            | ()           | -                                 | 38.2             | -             |
+| FABRICIUS                         | ±   | 0          | -                    | -          | -       | 0.1        | -                               | -                               | -            | 2            | -                                 | -                | -             |
+| FABRICIUS                         | max | 0          | -                    | -          | -       | 3          | -                               | -                               | -            | H5           | -                                 | -                | -             |
+| Polydom liani                     | x   | 52         | 28                   | 35.1-      | 0.1     | 47         | 25                              | 37.0                            | 0.1          | 4            | 2                                 | 13.3             | --- 0.1       |
+| WEBSTER (*)                       | ±   | 37         | 26                   | -          | 0.0     | 25         | 18                              | -                               | 0.0          | 2            | 1                                 | -                | n.l           |
+| WEBSTER (*)                       | max | 1 ;}70     | 1043                 | -          | 0.8     | 670        | 479                             | -                               | 0.5          | :35          | 10                                | -                | 2.n           |
+| Polydom                           | x   | 12         | 5                    | 23,8       | 0.0     | 19         | 5                               | 25.9                            | 0.0          | 3            | 0.2                               | 16.7             | 0.0           |
+| c·il-iatct (*)                    | ±   | (j         | 2                    | -          | 0.0     | ~          | 2                               | -                               | 0.0          | 2            | 0.1                               | -                | 0.0           |
+| JOHNSTON                          | max | 190        | 5U                   | -          | 0.1     | 205        | 44                              | -                               | 0.2          | 55           | 3                                 | -                | 0.3           |
+
+Benthic Invertebrates as Indicators Organic o Pollution
+
+| Py(Josp-io                | x     | 17790   | 1550   | 60.2   | Hi.l    | 1.8710   | 1604   | 100    | 35.3     | If):n   | lUO   | IJO.U   | 1.H.o     |
+|---------------------------|-------|---------|--------|--------|---------|----------|--------|--------|----------|---------|-------|---------|-----------|
+| eleuans                   | ±     | 6372    | 535    | -      | 4.1     | 5028     | 498    | -      | 3.8      | 487     | 63    | -       | 2.7       |
+| CLAPAREDE                 | max   | 201500  | 18468  | -      | 88.1    | 141500   | 15045  | -      | 90.!)    | 1:J550  | 245(i | -       | 72.0      |
+| Cap'itella                | x     | 24744   | 7281   | 100    | 61.4    | 3416     | 631    | 06.3   | 26.6     | 1~7     | 33    | ~3.3    | liJ.O     |
+| CalJitata (*)             | ±     | 5818    | 1806   | -      | 5.9     | 1265     | 232    | -      | 5.8      | 5:J     | n     | -       | 2.U       |
+| :FABRICIUS                | max   | 171000  | 59946  | -      | 99.6    | 29195    | 4817   | -      | 97.1     | 1 :J50  | 215   | -       | 1)3.0     |
+| Pl'otod1'ilu,s            | x     | 0       | -      | 0.0    | -       | 3        | -      | 3.3    | -        | 61      | -     | 5.S     |           |
+| chaet1:je1'               | ±     | 0       | -      | 0.0    | -       | 2        | -      | -      | -        | 4f)     | -     | -       |           |
+| RE1\UNE                   | max   | 0       | -      | 0.0    | -       | 100      | -      | -      | -        | 2200    | -     | -       |           |
+| Copidoanathus             | x     | 3       | -      | 2.5    | -       | 132      | -      | 11.5   | -        | 268     | -     | 35.0    |           |
+| jabl'icius'i              | ±     | 2       | -      | -      | -       | 84       | -      | -      | -        | U6      | -     | -       |           |
+| LOHJ\IANN                 | max   | 100     | -      | -      | -       | 3300     | -      | -      | -        | 3200    | -     | -       |           |
+| Ga1nllwl'1ts              | x     | 29      | 24     | 69.1 - | 1.6     | 126      | 32 16  | 44.4 - | 0.2      | :H      | 4G 26 | :~O.O - | 5.9 1.7   |
+| salinus (*)               | ±     | 8       | 8 100  |        | 0.7     | 80       |        | -      | 0.1 2.() | 15      | 696   | -       |           |
+| SrooNEH.                  | max x | 295     |        | -      | 11.0    | 1923'    | 380    |        | 1.0      | 345     |       |         | 0.5       |
+| Bathyporeict sa1'si (*)   | ±     | 8 oJ:   | 3 2    | 14.3 - | 0.2 0.1 | 39 20    | 18 8   | 59.3 - | 0.4      | 130 iHi | 67 18 | U6.7 -  | 14.4 :J.5 |
+| \VATKIN                   | max   | 135     | 55     | -      | 4.1     | 540      | 226    | -      | S.O      | H2O     | 4:J:J | -       | (j5.:~    |
+| ]Jf                       | x     | 34      | 6      | 35.7   |         | 62       | 13     | 40.7   | 0.1      | 8       | 1     | l:l.:{  | 0.1       |
+| iCl'odeutolJUs            | ±     | 10      | 4      |        | 0.0     | 37       | 7      | -:-    | 0.0      |         | 1     | -       | n.o       |
+| gryllotalpct (*) DA COSTA | max   | !j~0    | 124    | - -    | 0.0 0.3 | 953      | lUO.5  | -      | 0.8      | 7 lUf)  | 34    | -       | 1.:~      |
+| COl'ophiu1lL              | x     | 450     | 45     | 52.3   | 0.4     | 495      | 63     | 59.3   | 0.7      | In      | 2     | 26.7    | 0.6       |
+| insidiosU'ln              | ±     | 359     | 35     | -      | 0.2     | 217      | 35     | -      | 0.2      | 11      | 1     | -       | 0.4       |
+| CRAWFORD (*)              | mux   | 15070   | 1482   | -      | 6.1     | 4205     | 832    | -      | iJ.3     | 275     | 4:;   | -       | 11.8      |
+| ldotea,                   |       |         |        |        |         |          |        |        | 0.0      | 1       | 2     |         | 0.0       |
+|                           | ;1;   | 7       | fj     | 40.5   | 0.0     | 6        | 6      | 40.7   | 0.0      | 2       | 3     | la.3    | 0.1       |
+| baltica (*)               | ±     | :J      | 2      | -      | 0.0     | 2        | 3      | -      |          |         |       | -       |           |
+| P~\LLAS                   | max   | 140     | 47     | -      | 0.4     | 50       | 79     | -      | 0.3      | 20      | 43    | -       | 1.9       |
+
+The investigation area is a shallow inshore region in the South of Kiel Bay, where high quantities of domestic sewage are discharged. Following a transect from the sewage outlet along the coast line, three zones with a decreasing degree of pollution and with characteristic faunal assemblages were found on the sandy bottom at a depth of 3 m. More detailed descriptions and references to literature on the study area are given in previous papers (ANGER, 197õa, b). The dominant group within the macrofauna with respect to both number of individuals and of species was formed by polychaetes, followed by molluscs and amphipods. The only species which are treated in this report are those which show rather distinct reactions to the environmental gradient and fulfill the main requirenents for indicators recently summarized by ReisH (1972, 1973) and LEPPÄKOSKI (1975).
+
+The investigation area was divided into three subregions (50-200, 300-700 and 1000—2000 m distance from the outfall). Within each subregion three stations were sampled and the data from these three stations were then combined to give one value for each subregion.
+
+These subareas are nearly identical with the range of the associations defined by ANGER (1975b). They correspond to LEpPÄkoskI's "polluted", "semipolluted" and "healthy" bottoms. A "very polluted" zone sensu LEppÄkoskı is restricted to an area of less than 50 m radius around the outlet; a "semihealthy" botton has not been delimited in this survey. The original data for all stations are given in an unpublished thesis (University Kiel, 1975).
+
+Some of the most conspicuous trends are shown as examples in graphs. Dominance values are related to the macrofauna only; biomass is not given for meiofauna and for raon  es oo ns o e o ns s os  ora meadows excluded) are considered, since they show here a clearer reaction to the impact of sedimenting sewage particles (cf. ANGER, 1975a). Species which are affected only within the polluted zone (50-200 m) were regarded as broadly indifferent to organic pollution and were not included in the present study. Systematic groups not identified to the species level (e.g. Nemertini, Oligochaeta) were also excluded from considerations as well as species which are to rare. The data given in table 1 are based on a total of 157 macrofauna samples (O · 2 m²) and an equal number of observations on meiofauna.
+
+2. Methods
+
+Nine stations were chosen in the investigation area. Two parallel samples per station per month were taken from 1971 to 1972 by means of a 0.1 m² van Veen grab, strained through a sieve with 1 mm mesh size and fixed in 40,'0 formalin solution. The material was sorted under a stereo microot            at  ts Additionally, one unstrained parallel sample was taken at each station with a smaller grab (0.01 m²) in order to gain information on meiofauna and young bottom stages. For further information on aims and methods and on some chemical characteristies of the sewage see ANGER (1975 b).
+
+3. Results
+
+The most significant population parameters determined in this study are given in Table 1. Following the definitions by LeppÄkosk (1975) we may distinguish here three groups of species with reference to their distribution pattern in the study area. Thn ri t r r r  o      ron of the benthic environment.
+
+3.1. Progressive species of the 1st order
+
+The polychaete Capitella capitata is a typical indicator. In the full range of its worldwide distribution it is known to react most clearly to organic pollution (for literaur            ia tion density and biomass in the polluted zone (fig. 1) and there it doninates, often
+
+Fig. 1. Capitella capitata: Mean abundance (Ā), biomass (B) and abundance of juvenile bottom stages (<1 mm) (Ājuv) in the pollution gradient (distance from the outlet). In Fig. 1, ordinate, please read A[I/m2], Ajuv[I/100 cm2] (instead A[l/m2], Ajuv[I/100 cm2]).
+
+with a percentage of more than 99 %0 of the total macrofauna. Only bacteria, ciliates and nematodes (and at the outer station (200 m) often the polychaete Pygospio elegans) are more numerous in the polluted part of the study area. Corresponding to the literature, there seems no doubt that Capitella capitata is an appropriate indicator for organically enriched marine bottoms.
+
+The population parameters of the polychaete Nereis diversicolor are also multiplied in the polluted area (fig. 2). As it is normally rather scarce in clean sand, it must be regarded as belonging to this group of indicators. The present results correspond well with those of many other authors in the Baltic Sea region (for review see LeppÄkoskr, 1975).
+
+Like some other Polydora species, P. ligni is closely associated with a high amount of suspended organic matter. In particular in the region 200-300 m from the sewage pipeline its density and biomass are increased by a factor of 100. It can also occur in
+
+17 Internationale Revue, Bd. 62, Heft 2
+
+Fig. 2. Nereis diversicolor: for explanation see fig. 1. Please read A[I/m²] (ordinate) instead Ā[l/m2].
+
+ns n s o ss s ns  ns  o bo t           n numbers if a fairly high precipitation of digestible substances takes place. This observation, already recorded by ANGER (1975a), holds true also for some other euryoeceous aufwuchs dwellers treated below.
+
+3.2. Progressive species of the 2nd order
+
+Some macrobenthic invertebrates are so strongly favoured by sewage pollution that they could also belong to the first group. Mainly the amphipod Coropħium insidiosum, the mussel Mytilus edulis, and the polychaete Pygospio elegans, but to a certain extent also, the polychaetes Polydora ciliata and Nereis succinea and the isopod Idotea baltica show a strong rise in both the semipolluted and polluted subareas. Since this rise is more pronounced in the former region and at the same time there is a clear decrease in the inner part of the latter one they are put into this second group. Typical distribution patterns are shown in fig. 3 and 4 for Pygospio elegans and the amphipod Microdeutopus gryllotalpa. More representatives of progressive species of the 2nd order are: the snail Hydrobiu ulvae, the polychaete Anaitides mucosa, and the amphipod Gammarus salinus (and less clearly, G. oceanicus). The bivalves Mya urenaria and Macoma baltica also have somewhat higher numbers in the slightly polluted zone. They illustrate an occurrence which is most conspicuous for Mytilus edulis: After the spatfall oo ns s  n on ss o os os s a a ono It is highest at a size of 1 mm or less. All numbers given for Mytilus edulis in table 1 concern only individuals of a size 1 to 10 mm, which have survived the critical phase on es  o     yp   i significantly higher due to a sufficient food supply.
+
+Fig. 3. Pygospio elegans: for explanation see fig. 1. Please read Ā[I/m2] and Ājuv[I/100 m2] (ordinates).
+
+Fig. 4. Microdeutopus gryllotalpa: for explanation see fig. 1. Only sand data considered. Please read Asand[I/m2] (ordinate) instead Asand[l/m2].
+
+These facts confirm again the assumption mentioned above that many growth d r    s     oto organic pollution in habitats where they are normally found only infrequently or in small numbers. LEppÄkoskI (1975) and other authors reviewed by him observed for Nereis diversicolor and Macoma baltica an increase of individual weight in polluted zones. The same trend has been found in the present study for several polychaetes, the snail Hydrobia ulvae and for Corophium insidiosum (for the latter species see ANGER, in press). The question is raised, whether the main reason is a higher growth rate due r s ( s   r        n fo e              by special experiments.
+
+3.3. Regressive species
+
+LEppÄkoskı's subgrouping into regressive species of 1st and 2nd orders could not be followed in this study, because it proved too restrictive to be applied to the material treated here. Since no species were found to be totally absent from all polluted parts of the investigation area, the following species correspond rather to regressive species of the 2nd order: Bathyporeia sarsi (amphipod), Pholoë minuta, Nephtys caeca, Protodrilus chaetifer (polychaetes), Copidognathus fabriciusi (mite),"Mysella bidentata (bivalve). Some of these species belong to the meiofauna, most of them occur rather scarcely even in undisturbed environnents. Many additional infrequent species (e.g. Bathyporeia pilosa or the mysid Gastrosaccus spinifer) have a similar distribution pattern indicating a negative correlation with the degree of pollution. As ,adverse indicators" they should be absent from affected but common in unaffected regions. This second precondition is only met satisfactorily in the investigation area by the 17*
+
+Fig. 5. Bathyporeia sarsi: for explanation see fig. 1. Sand data and combined data obtained from all substrates considered separately. Please read Ā[I/m²] (ordinate) instead A[l/m²].
+
+sand dwellers Bathyporeia sarsi (fig. 5) and Copidognathus fabriciusi. They can be considered as suitable indicators for rather clean shallow sand bottons in the Western Baltic Sea.
+
+4. Conclusions and Discussion
+
+The species treated in this report can indicate different degrees of organic pollution in the reach of the Western Baltic, in a few cases also for further areas. They can be divided into three groups according to their response to sedimenting sewage particles and the subsequent environmental changes (Tab. 2). Most of them should be studied on aufwuchs-free sand, as they have clearer reactions on this substrate if affected by organic enrichment.
+
+These results are in fairly good accordance with those of a preliminary pilot study (AnGER, 1975a). In some cases there are differences which can be explained partly by the simple methods in combination with the purely qualitative statistics used for the pilot study. Nevertheless it could be shown that benthic organisms are able to serve as indicators of environmental quality. Many other authors (see LEppÄkoskI, 1975)
+
+Table 2. Groups of benthic indicators for organic pollution. In parenthesis: species relatively rare on the examined substrates in the investigation area
+
+| Indi~ators for organic pollution (progressive species of lst order)   | Indicators for slight organic pollution (progr. species of 2nd order)                                                                                                                                                  | Adverse indicators (Regressive species)                                                                                        |
+|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Capitella. capitala N ereis diversicolor Polydora ligni               | Corophium insidiosum lIf ytilus edulis Pygospio ele!Jans H ydrob-ict ulvCte GammctrU8 salinus ( Po lydora cil·iata) ( N ere is S1tCC i nea ) (Idotect haltica) ( .M icrodeutopu8 (J1"yllotalZJa) ( A naitides m.ucosa) | BathYP01"eia. sarsi Copidoanathus Jabriciusi (Pholoe minuta) ( N ephtys caeca) (Profodrilus chaeti/er) ( lrI ysella bidentata) |
+
+found very similar reactions for the species treated here. However some disagreements also occur in the literature: e.g. JÄRvEkÜLG (1970) mentioned Mytilus edulis as oligosaprobic, while WILHELMI (1916) called it indifferent (like ANcER, 1975a, after qualitative studies), RosENBERG (1971) found it receding after organic contamination of the Saltkällefjord, and Smytí (1968) describtd it as frequent in polluted parts of the Firth of Forth.
+
+In the present study it proved ultimately favoured by organic enrichment. For some species the larvae might be the key for understanding their distribution: Polydoru ciliata for example is known as an inhabitant of polluted harbours, fjords and inlets (e.g. PERSOONE & PAUW, 1968, STIRN, 1972, LEPPÄKOSKI, 1975) as are the larvae (SmIDT, 1944, ScHRAM, 1968). The settlement of their planktonic stages is favoured by bacterial filns on the sediment (DoRsETT, 1961, KisELEvA, 1967), which can also be related to organic pollution. These examples emphasize the need for more detailed experimental and field studies on the biology and ecology of both the single species and the communities for a better understanding of the ecosysten and its responses to human and natural perturbations. The indicator concept is one of many helpful techniques to characterize an environment and to nake predictions of its future behaviour under rising stress.
+
+5. Summary
+
+Three groups of indicator species are distinguished on the basis of their distribution pattern in a pollution gradient observed in the south of Kiel Bay (Western Baltic Sea). Three polychaetous annelids show distinct indicator qualities by inhabiting polluted sand bottoms in high nunibers. Some other bentic invertebrates occur mainly under conditions of slight organic pollution; a few species can be regarded as very sensitive, thus indicating pollution by their absence or exceptionally low numbers.
+
+Acknowledgements
+
+The present paper is part of a thesis prepared under the direction of Prof. Dr. W. NoopT. To him I want to express my sincere thanks for providing laboratory facilities and helpful discussions. 1 am obliged also to the Studienstiftung des deutschen Volkes for generous financial support.
+
+6. References
+
+- AxGER, K., 1975a: On the influence of sewage pollution on inshore benthic communities in the South of Kiel Bay. Part 1. Qualitative Studies on indicator species and communities.—Merentutkimuslait. Julk./Havsforskningsinst. Skr. 239: 116-122.
+- 1975b: On the influence of sewage polhution on inshore benthic communities in the South of Kiel Bay. Part. 2. Quantitative studies on community structure.—Helgol. wiss. Meeresunters. 26: 408-438.
+- — (in press): On the life cycles of the amphipods Bathyporeia sarsi WATKIx, Wicrodeutopus gryllotalpa CosTA and Corophium insidiosum CRAwFoRD in Kiel Bay.—Proc. 4th Symposium Baltic Marine Biologists Gdansk, 1975:
+- AuGusTIN, A., and K. ANGER, 1974: Experimente über Substratpräferenzen von Capitella capitata (FABRicIus).—Kieler Meeresforsch. 30: 28-36
+- DorsETT, D. A., 1961: The reproduction and maintenance of Polydor ciliata (JoNsT.) - J. mar. biol. Ass. U. K. 41: 383-396
+- JÄrvEküLG, A. A., 1970: Bottomfauna as an indicator of pollution of the marine benthal in the vicinity of Talinn.—In T. FREY, L. LAAsIMER & L. REINTAM (ed.): Estonian contributions to the International Biol. Programme.—I. Acad. Sci. Estonian SSR: 158-193. Tartu
+
+- KIsELEva. G. A., 1967: Settlement of Polydora ciliata (JoNsToN) larvae on different substrates.— Donnye Biotsenozy: Bentosnykh organizmov Chernogo Morya, Akad. nauk. Ukr. SSR, 85-90.
+- Lp    t t o       in marine and brackish-water environments.—Acta Academiae Aboensis, Ser. B., 35 (2): 96pp.
+- PErsooNE, G., and N. DE Pauw, 1968: Pollution in the harbour of Ostend (Belgium).-Helgol. wiss. Meeresunters. 17: 291-301.
+- REisí, D. J., 1972: The use of marine invertebrates as indicators of marine pollution.-In M. RuvIo (ed.). Marine Pollution and Sea Life: 203-207, London: Fishing News (Books) Ltd.
+- — 1973: The use of benthic animals in monitoring the marine environment.—J. Environ. Planning and Poll. Control 1: 32–38.
+- RosENBERG, R., 1971: Recovery of the littoral fauna in Saltkällefjord subsequent to discontinued operations of a sulphite pulp mill.-Thalassia Jugoslavica 7: 341-351. .
+- ScíRam, T. A., 1968: Studies on the meroplankton in the Inner Oslofjord. I. Composition of the plankton at Nakkholmen during a whole year.-Ophelia 5: 221-243.
+- SmIDT, D. L. P., 1944: Biological studies of the invertebrate fauna of the harbour of Copenhagen.— Vidensk. Meddr.dansk. naturh. Foren. 107: 1-43.
+- SmyTH, J. C., 1968: The fauna of a polluted shore in the Firth of Forth.-Helgol. wiss. Meeresunters. 17: 216-223.
+- STIRN, J., 1970: Bioccenological Methods for Assessments of Marine Pollution and Problems of Indicator Species.—FAO Techn. Conf. Mar. Poll. Effects Living resources Fishing, MP/70/E-41: 8pp.
+- THompsoN, R. J., und B. L. BAyNE, 1974: Some relationships between growth, metabolism and food in the mussel Mytilus edulis.-Mar. Biol. 27: 317–326.
+- WπHELm, J., 1916: Ubersicht über die biologische Beurteilung des Wassers.-Sitzungsber. Ges. Naturf. Freunde Berlin 9: 297–306.
+
+Dr. KLaUs ANGER Biologische Anstalt Helgoland D-2192 Helgoland
+
+Manuscript t accepted: March 1st, 1976
