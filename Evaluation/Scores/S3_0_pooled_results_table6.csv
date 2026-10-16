@@ -1,0 +1,15 @@
+Block,Measure,Operational definition,Docling,Nougat,PP-StructureV2,olmOCR 2,Tabula
+A. Document reconstruction,Text fidelity,Correct normalised word tokens / reference tokens (abstract),1261/1265 (99.7%),683/1265 (54.0%),1221/1265 (96.5%),1068/1078 (99.1%)  [k=4/5],Not supported
+A. Document reconstruction,Reading continuity,Numbered objects inserted without interrupting a body sentence / all numbered objects,25/44 (56.8%),5/44 (11.4%),Not scored,5/17 (29.4%)  [k=2/5],Not supported
+B. Tables,Table coverage,Numbered tables whose data content is retained / numbered tables,12/12 (100.0%),11/12 (91.7%),12/12 (100.0%),8/10 (80.0%)  [k=4/5],10/12 (83.3%)
+B. Tables,Basic table structure,Tables with identifiable rows and columns / numbered tables,10/12 (83.3%),7/12 (58.3%),9/12 (75.0%),7/10 (70.0%)  [k=4/5],4/12 (33.3%)
+B. Tables,Table header hierarchy,Tables with nested headers whose parent-child relations are correct / tables with nested headers,4/6 (66.7%),2/6 (33.3%),3/6 (50.0%),3/5 (60.0%)  [k=2/3],0/6 (0.0%)
+B. Tables,Table numerical fidelity,Correctly transcribed numerical entries / reference entries,297/312 (95.2%),279/312 (89.4%),312/312 (100.0%),141/252 (56.0%)  [k=3/5],280/312 (89.7%)
+B. Tables,Numerical-context preservation,"Values bound to correct row/column label, unit and ± or range (strict label matching) / values checked",164/164 (100.0%),142/164 (86.6%),72/140 (51.4%)  [k=3/4],139/164 (84.8%),0/21 (0.0%)  [k=1/4]
+C. Figures and captions,Figure visual preservation,Figures retained with all recognisable panels / numbered figures,31/32 (96.9%),Not supported,5/5 (100.0%)  [k=1/5],Not supported,Not supported
+C. Figures and captions,Caption coverage,Numbered captions retained / numbered captions (Tabula: table captions only),43/44 (97.7%),33/44 (75.0%),40/44 (90.9%),29/37 (78.4%)  [k=4/5],2/12 (16.7%)
+C. Figures and captions,Caption-object linkage,Captions identifiable with their correct object / all numbered objects (Tabula: tables only),43/44 (97.7%),9/44 (20.5%),Not scored,6/37 (16.2%)  [k=4/5],2/12 (16.7%)
+C. Figures and captions,Figure numerical values,Plotted values recovered as structured data,Not supported,Not supported,Not supported,Not supported,Not supported
+D. Provenance and readiness,Native provenance output,"Source location written by the tool (capability, accuracy not scored)",Page + bounding box per element (JSON),None (page breaks only),Bounding box per layout region (JSON),Page-level only,Page + table area (JSON)
+D. Provenance and readiness,Hardware,Minimum practical setup for local use,CPU; Apple MPS / GPU optional,GPU recommended,CPU,NVIDIA GPU required,CPU (Java runtime)
+D. Provenance and readiness,Interface and licence,Documented interface; code licence,Python API + CLI; MIT,"Python API + CLI; MIT code, CC BY-NC model weights",Python API + CLI; Apache-2.0,Python pipeline; Apache-2.0,Java CLI / tabula-py; MIT
